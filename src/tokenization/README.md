@@ -40,6 +40,10 @@ doc = nlp(text)
 tokens = [token.text for token in doc]
 print(tokens)
 ```
+OUTPUT -
+```
+['You', 'love', 'NLP', '!']
+```
 ## Challenges in Tokenization
 ### Ambiguity
 Tokenizing certain words can be ambiguous, like "New York" (a city) and "new" (an adjective). Context-aware tokenization methods can address such challenges.
