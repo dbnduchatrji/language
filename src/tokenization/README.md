@@ -24,7 +24,7 @@ from nltk.tokenize import word_tokenize
 text = "You love NLP!"
 tokens = word_tokenize(text)
 print(tokens)
-
+```
 OUTPUT -
 ```
 ['You', 'love', 'NLP', '!']
