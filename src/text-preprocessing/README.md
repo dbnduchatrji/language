@@ -34,4 +34,3 @@ Chat words conversion
 
 Spelling correction
 
-So these are the different types of text preprocessing steps which we can do on text data. But we need not do all of these all the times. We need to carefully choose the preprocessing steps based on our use case since that also play an important role.
