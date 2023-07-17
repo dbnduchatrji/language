@@ -1,4 +1,4 @@
-# A Comprehensive Guide to Tokenization in NLP: Techniques, Challenges, Samples, and Tools
+# Tokenization in NLP: Techniques, Challenges, Samples, and Tools
 
 In natural language processing (NLP), tokenization is a fundamental process that involves breaking down text into smaller units called tokens. These tokens can be words, subwords, or characters, and they serve as the foundation for various NLP tasks. In this article, you will explore the techniques, challenges, samples, and tools related to tokenization in NLP.
 
